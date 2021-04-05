@@ -3004,10 +3004,10 @@
   dependencies:
     "@walrus/core" "1.3.4"
 
-"@walrus/unicode-emoji@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@walrus/unicode-emoji/-/unicode-emoji-1.1.0.tgz#bb816f019747f00f5c39c2fa535cfffde6a8670c"
-  integrity sha512-IdbYyAaZCsYrT+0bOC/bQ+QU4PcKkAZMPDp+7CEdiud6HZeaN2tB1fmEhwE0CDModPiW/R7fAWOc0FlBlznrJA==
+"@walrus/unicode-emoji@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@walrus/unicode-emoji/-/unicode-emoji-1.2.0.tgz#b335aedcaed5abd95093e77005018999f56e2fa1"
+  integrity sha512-gZKS3I63gttUy61OD/HMpob3/y8UUh/3pFdt64bIZ7zrMt+OPnc1U+7YsBK5oe25LvJNfYBL4iDtNCundyTaog==
 
 "@walrus/utils@1.3.4":
   version "1.3.4"
@@ -8771,7 +8771,7 @@ rimraf@^2.5.4, rimraf@^2.6.2, rimraf@^2.6.3:
   dependencies:
     glob "^7.1.3"
 
-rimraf@^3.0.0, rimraf@^3.0.2:
+rimraf@^3.0.0:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-3.0.2.tgz#f1a5402ba6220ad52cc1282bac1ae3aa49fd061a"
   integrity sha512-JZkJMZkAGFFPP2YqXZXPbMlMBgsxzE8ILs4lMIX/2o0L9UBw9O/Y3o6wFw/i9YLapcUJWwqbi3kdxIPdC62TIA==
