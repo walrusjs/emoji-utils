@@ -11,6 +11,7 @@
   "author": "wangxingkang <wang_xingkang@qq.com>",
   "scripts": {
     "prettier": "pretty-quick --staged",
+    "build": "rimraf lib && tsc -p tsconfig.build.json",
     "test": "walrus test",
     "commit": "commit",
     "release": "walrus release"
@@ -24,7 +25,6 @@
     "@walrus/commit": "^1.2.0",
     "@walrus/plugin-release": "1.12.2",
     "@walrus/plugin-test": "^1.1.0",
-    "rimraf": "^3.0.2",
     "typescript": "^4.2.3"
   },
   "publishConfig": {
