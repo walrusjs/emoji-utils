@@ -3004,10 +3004,10 @@
   dependencies:
     "@walrus/core" "1.3.4"
 
-"@walrus/unicode-emoji@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@walrus/unicode-emoji/-/unicode-emoji-1.2.0.tgz#b335aedcaed5abd95093e77005018999f56e2fa1"
-  integrity sha512-gZKS3I63gttUy61OD/HMpob3/y8UUh/3pFdt64bIZ7zrMt+OPnc1U+7YsBK5oe25LvJNfYBL4iDtNCundyTaog==
+"@walrus/unicode-emoji@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@walrus/unicode-emoji/-/unicode-emoji-1.3.0.tgz#43bc5ae8df152ed67fe18905bdf62821e25f0a39"
+  integrity sha512-bb/JXMDSH6moduN+92JcniNCEEYwNTNGJ55K0Fa2VoH07HGqHAY2YZerkhUImDd5o1si0k+vXC7tR6CbBzFiYw==
 
 "@walrus/utils@1.3.4":
   version "1.3.4"
